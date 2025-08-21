@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  helm:
+  todolist-chart:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2025-07-27T11:38:18.731746247+03:00"
-    description: A Helm chart for Kubernetes
-    digest: 3d51b43d6aef53ff1f8c78e4af3fa0ac886a0f418daebe9555e5ee260e1c0e1c
-    name: helm
+    appVersion: 1.0.0
+    created: "2025-08-21T16:02:52.642127714+03:00"
+    description: A Helm chart for the Todolist Full Stack Application
+    digest: 2122a2b06fa7ccfab5e4e043a0193d3f407e089576dd4adea2802b51ba1d34b6
+    name: todolist-chart
     type: application
     urls:
-    - https://DevErenOzcan.github.io/helm-repo/helm-0.1.0.tgz
+    - https://deverenozcan.github.io/helm-repo/todolist-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-27T11:38:18.73134714+03:00"
+generated: "2025-08-21T16:02:52.641026541+03:00"
