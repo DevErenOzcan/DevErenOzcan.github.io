@@ -9,6 +9,6 @@ entries:
       name: todolist-chart
       type: application
       urls:
-        - https://deverenozcan.github.io/helm-repo/charts/todolist-chart-0.1.1.tgz
+        - https://deverenozcan.github.io/helm-repo/todolist-chart-0.1.1.tgz
       version: 0.1.1
 generated: "2025-08-25T16:52:39.507101073+03:00"
